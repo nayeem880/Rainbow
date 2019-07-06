@@ -18,18 +18,45 @@ Microsoft Bangladesh
 
 ```
 
-# Inspiration
-## Dedication
-### passion
+## Beauty of Python
+```markdown
+###In Java -
+class HelloWorld 
+{ 
+    // Your program begins with a call to main(). 
+    // Prints "Hello, World" to the terminal window. 
+    public static void main(String args[]) 
+    { 
+        System.out.println("Hello, World"); 
+    } 
+} 
 
-- Coding
-- solving problem
+###In C++
+#include <iostream>
+using namespace std;
+int main() 
+{
+    cout << "Hello, World!";
+    return 0;
+}
 
-1. Start
-2. End
+##And In python??? 
+Have a look - how simple it is :
 
-**Be consistance** and _keep conquring_ and `Code` text
+print("Hello world")
+```
+### Basic Rules 
+
+- Contribute as much as possible
+- Be consistant and helpful to others
+- Post as much resource as you can
+- Give a brief comment inside code
+- Use jupyter notebook for **convenience
+
+##Are you ready for your first Pull request???
+1.Start ------------------------------ End
+2. Coding ------------------------ Fun
 
 ### Support or Contact
-Give a pull request and feel free to distribute as per MIT license policy
+Give a **pull request** and feel free to distribute as per MIT license policy
 
