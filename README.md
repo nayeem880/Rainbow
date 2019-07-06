@@ -22,6 +22,7 @@ Microsoft Bangladesh
 
 ```markdown
 ###In Java -
+
 class HelloWorld 
 { 
     // Your program begins with a call to main(). 
@@ -33,6 +34,7 @@ class HelloWorld
 } 
 
 ###In C++
+
 #include <iostream>
 using namespace std;
 int main() 
@@ -42,9 +44,10 @@ int main()
 }
 
 ##And In python??? 
-Have a look - how simple it is :
+##Have a look - how simple it is :
 
 print("Hello world")
+    
 ```
 
 ## Basic Rules 
@@ -58,7 +61,7 @@ print("Hello world")
 ##Are you ready for your **first Pull request???
 
 1.Start ------------------------------ End
-2. Coding ------------------------ Fun
+2. Coding ----------------------- Fun
 
 ### Support or Contact
 Give a **pull request** and feel free to distribute as per MIT license policy
