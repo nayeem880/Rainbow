@@ -19,6 +19,7 @@ Microsoft Bangladesh
 ```
 
 ## Beauty of Python
+
 ```markdown
 ###In Java -
 class HelloWorld 
@@ -45,7 +46,8 @@ Have a look - how simple it is :
 
 print("Hello world")
 ```
-### Basic Rules 
+
+## Basic Rules 
 
 - Contribute as much as possible
 - Be consistant and helpful to others
@@ -53,7 +55,8 @@ print("Hello world")
 - Give a brief comment inside code
 - Use jupyter notebook for **convenience
 
-##Are you ready for your first Pull request???
+##Are you ready for your **first Pull request???
+
 1.Start ------------------------------ End
 2. Coding ------------------------ Fun
 
